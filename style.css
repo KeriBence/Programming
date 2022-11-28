@@ -1,0 +1,40 @@
+.p{
+    font-size: 16px;
+}
+
+.bg{
+    color: #2d2d30;
+}
+
+.bg-2{
+    background-color: #2d2d30;
+}
+
+.bg-3{
+    background-color: #2d2d30;
+    color: #fff;
+}
+
+.mt-5{
+    border: 2px solid #2d2d30 ;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.footer{
+    height: 500px;
+}
+  
+.navbar li a, .navbar{
+    color: #fff;
+}
+  
+.navbar-nav li a:hover, .navbar-nav li.active a{
+    color: #2d2d30;
+    background-color: #fff;
+}
+  
+.navbar-toggler{
+    border-color: transparent;
+    color: #fff;
+}
